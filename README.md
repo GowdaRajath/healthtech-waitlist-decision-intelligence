@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project explores how data analytics and machine learning can be used to support transparent, ethical, and data-driven decision-making in healthcare waiting list management.
+This project explores how data analytics and decision intelligence can be used to support transparent, ethical, and data-driven decision-making in healthcare waiting list management.
 
 The system focuses on identifying patient wait-risk patterns, prioritisation signals, and escalation indicators, with the goal of supporting clinical and operational review rather than automating decisions.
 
