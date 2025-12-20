@@ -88,19 +88,19 @@ Ethical considerations and limitations are documented explicitly.
 ## Results Snapshot (Synthetic HealthTech Data)
 
 <p align="center">
-  <img src="visuals/01_referrals_by_priority.png" width="800">
+  <img src="visuals/01_referrals_by_priority.png" width="500">
 </p>
 
 <p align="center">
-  <img src="visuals/02_wait_severity_distribution.png" width="800">
+  <img src="visuals/02_wait_severity_distribution.png" width="500">
 </p>
 
 <p align="center">
-  <img src="visuals/03_avg_wait_by_priority.png" width="800">
+  <img src="visuals/03_avg_wait_by_priority.png" width="500">
 </p>
 
 <p align="center">
-  <img src="visuals/04_review_recommendation_output.png" width="800">
+  <img src="visuals/04_review_recommendation_output.png" width="500">
 </p>
 
 ---
